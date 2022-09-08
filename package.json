@@ -10,8 +10,11 @@
     "lint": "eslint . --ext .js,.jsx,.ts,.tsx"
   },
   "dependencies": {
+    "@types/react-native-video": "^5.0.14",
+    "patch-package": "^6.4.7",
     "react": "18.1.0",
-    "react-native": "0.70.0"
+    "react-native": "0.70.0",
+    "react-native-video": "6.0.0-alpha.1"
   },
   "devDependencies": {
     "@babel/core": "^7.12.9",
